@@ -1,0 +1,13 @@
+.Previewer {
+  width: 66.67%;
+  min-width: 360px;
+}
+
+.Previewer .text-container {
+  resize: none;
+  min-height: 11.5rem;
+  overflow: auto;
+
+  font-family: 'Times New Roman', serif;
+  font-size: 1rem;
+}

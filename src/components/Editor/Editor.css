@@ -1,0 +1,9 @@
+.Editor {
+  width: 50%;
+  min-width: 320px;
+}
+
+.Editor textarea {
+  resize: vertical;
+  min-height: 13.5rem;
+}
